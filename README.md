@@ -1,2 +1,2 @@
 # Stock-prediction
-A repo for stock prediction models
+This repository is for stock prediction models using various strategies and techniques.
